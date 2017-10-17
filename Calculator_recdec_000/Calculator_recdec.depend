@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1507510559 source:d:\codeblockscode\calculator_recdec\main.cpp
+	<iostream>
+	<string>
+	<iterator>
+	<memory>
+	<exception>
+	<algorithm>
+	<functional>
+
+1507656560 source:c:\users\666124\documents\cppprojects\calculator_recdec\main.cpp
+	<iostream>
+	<string>
+	<iterator>
+	<memory>
+	<exception>
+	<algorithm>
+	<functional>
+	<cmath>
+	<iomanip>
+
+1507693282 source:d:\codeblockscode\calculator_recdec_zero\calculator_recdec\main.cpp
+	<iostream>
+	<string>
+	<iterator>
+	<memory>
+	<exception>
+	<algorithm>
+	<functional>
+	<cmath>
+	<iomanip>
+
+1508173212 source:c:\users\666124\documents\cppprojects\calculator_recdec_000\main.cpp
+	<string>
+	<iostream>
+	"Parser.h"
+
+1508173212 c:\users\666124\documents\cppprojects\calculator_recdec_000\parser.h
+	<iostream>
+	<string>
+	<iterator>
+	<memory>
+	<exception>
+	<algorithm>
+	<functional>
+	<cmath>
+	<iomanip>
+
